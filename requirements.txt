@@ -1,0 +1,6 @@
+altair==5.2.0
+gpuhunt==0.0.3
+pandas==2.2.0
+streamlit==1.29.0
+
+
